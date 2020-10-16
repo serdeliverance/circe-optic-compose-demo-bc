@@ -1,0 +1,2 @@
+# Circe Optics Compose Demo
+Sample code that shows an approach for composing modifications over a `json` using `Circe` and `Circe Optics`. This code complements the article called [Chaining states changes on json with Circe Optics and Pure Functions](https://serdeliverance.github.io/blog/blog/circe-optics-with-pf/) published on my personal blog.
