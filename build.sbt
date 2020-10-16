@@ -1,4 +1,4 @@
-name := "circe-optic-compose-demo"
+name := "circe-optic-compose-demo-bc"
 
 version := "0.1"
 
